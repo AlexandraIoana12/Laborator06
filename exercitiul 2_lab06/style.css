@@ -1,0 +1,33 @@
+
+<style>
+img {
+  border-radius: 12px;
+  border:2px solid black;
+  opacity: 0.5;
+display: black;
+  margin: left;
+}
+
+body{background-color:lightblue;
+}
+h1{
+    color: darkblue;
+	text-align:center;
+	}
+p{
+  color: green;
+  font-family: verdana;
+  font-size: 15px;
+  }
+  table, th, td {
+  border: 1px solid black;
+  background-color:red;
+  }
+  th{
+  background-color: white;
+  }
+  ul li{
+  background-color:pink;
+  margin: 5px;
+  }
+</style>
